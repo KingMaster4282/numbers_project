@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">NumbersInfo</string>
+    <string name="getFact">Get fact</string>
+    <string name="getRandomFact">Get fact about random number</string>
+    <string name="textHint">Enter number</string>
 </resources>
